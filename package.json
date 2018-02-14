@@ -1,0 +1,13 @@
+{
+  "name": "x-copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "bin": {
+  	"x-copy": "./index.js"
+  },
+  "author": "Axel",
+  "license": "MIT"
+}
